@@ -1,0 +1,4 @@
+#Sun Jun 12 19:51:40 BRT 2022
+base.0=C\:\\Users\\mhsrt\\OneDrive\\Documentos\\Pessoal\\vr-test-frontend-mobile\\vr_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
